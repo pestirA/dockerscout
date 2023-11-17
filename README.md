@@ -19,7 +19,11 @@ https://docs.docker.com/scout/quickstart/
 
 ## Review and Update Recommendations
 
+<img width="1259" alt="Screenshot 2023-11-17 at 6 06 53 PM" src="https://github.com/pestirA/dockerscout/assets/35427591/4d313ee5-ff36-47b8-9221-161d7de6f1fa">
 
+<img width="1003" alt="Screenshot 2023-11-17 at 6 07 22 PM" src="https://github.com/pestirA/dockerscout/assets/35427591/a0946715-2965-4f74-9556-9e42c9f0d0f4">
+
+<img width="1011" alt="Screenshot 2023-11-17 at 6 07 30 PM" src="https://github.com/pestirA/dockerscout/assets/35427591/6fab78ec-66f7-4237-a85f-1b0dda8530eb">
 
 
 
