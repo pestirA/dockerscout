@@ -16,6 +16,12 @@ https://github.com/pestirA/5rearc
 
 ## Enable Docker Scout
 https://docs.docker.com/scout/quickstart/
+There must be at least one image in your repository.
+
+You can push an image to your repository on Docker Hub or integrate with other registries.
+View integration options or check out our quickstart guide⁠
+
+Note: It can take up to 10 minutes for your images to be analyzed and displayed after pushing an image/or enabling it.
 
 ## Review and Update Recommendations
 
