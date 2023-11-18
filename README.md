@@ -45,4 +45,6 @@ View vulnerabilities → docker scout cves local://quests:latest
 View base image update recommendations → docker scout recommendations local://quests:latest
 <img width="1164" alt="Screenshot 2023-11-17 at 6 47 05 PM" src="https://github.com/pestirA/dockerscout/assets/35427591/ed872b07-1844-4846-8d36-712de32f8122">
 
+We successfully made the updates and significantly reduced the vulnerabilities for image
+<img width="1274" alt="Screenshot 2023-11-17 at 8 04 02 PM" src="https://github.com/pestirA/dockerscout/assets/35427591/dc81dc3f-9370-46d3-bd9d-64bff5d8a785">
 
